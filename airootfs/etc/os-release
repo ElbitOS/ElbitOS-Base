@@ -1,0 +1,12 @@
+NAME="ElbitOS_base"
+PRETTY_NAME="ElbitOS (Base)"
+VARIANT="Base"
+VARIANT_ID=base
+ID=elbitos_base
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://elbit.tech/"
+DOCUMENTATION_URL="https://elbit.tech/"
+SUPPORT_URL="https://elbit.tech/"
+BUG_REPORT_URL="https://elbit.tech/"
+LOGO=elbitos-logo

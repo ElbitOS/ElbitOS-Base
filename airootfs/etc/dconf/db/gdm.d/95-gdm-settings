@@ -1,0 +1,56 @@
+#-------- Interface ---------
+[org/gnome/desktop/interface]
+#----------------------------
+cursor-theme='Adwaita'
+icon-theme='Nordzy-turquoise'
+show-battery-percentage=false
+clock-show-seconds=false
+clock-show-weekday=false
+clock-format='24h'
+font-name='Cantarell 11'
+font-antialiasing='grayscale'
+font-hinting='slight'
+text-scaling-factor=1.0
+
+#-------- Sound ---------
+[org/gnome/desktop/sound]
+#------------------------
+theme-name='freedesktop'
+event-sounds=true
+input-feedback-sounds=false
+allow-volume-above-100-percent=true
+
+#-------------- Mouse ---------------
+[org/gnome/desktop/peripherals/mouse]
+#------------------------------------
+accel-profile='default'
+natural-scroll=false
+speed=0.0
+
+#-------------- Touchpad ---------------
+[org/gnome/desktop/peripherals/touchpad]
+#---------------------------------------
+speed=0.0
+tap-to-click=false
+natural-scroll=true
+two-finger-scrolling-enabled=true
+disable-while-typing=true
+
+#------------- Night Light --------------
+[org/gnome/settings-daemon/plugins/color]
+#----------------------------------------
+night-light-enabled=false
+night-light-temperature=uint32 2700
+night-light-schedule-automatic=true
+night-light-schedule-from=20.0
+night-light-schedule-to=6.0
+
+#----- Login Screen ----
+[org/gnome/login-screen]
+#-----------------------
+logo='/etc/ElbitOS/logo-min.png'
+banner-message-enable=true
+banner-message-text='Welcome to ElbitOS'
+disable-restart-buttons=false
+disable-user-list=false
+

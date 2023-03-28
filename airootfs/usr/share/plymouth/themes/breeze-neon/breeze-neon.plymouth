@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Breeze-neon
+Description=A forked breeze plymouth theme with neon logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/breeze-neon
+ScriptFile=/usr/share/plymouth/themes/breeze-neon/breeze-neon.script
+
