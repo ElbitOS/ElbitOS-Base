@@ -29,4 +29,4 @@ sudo archiso -v ElbitOS-Base
 Work and out directories should be created and the out directory will contain the ISO file
 
 > ### Note
-> Depending on the distribution you might need to copy ElbitOS Repository package from this group
+> Depending on the distribution you might need to use [Elbit Package Repositories](https://github.com/ElbitOS/ElbitOS-Package-Repositories)
