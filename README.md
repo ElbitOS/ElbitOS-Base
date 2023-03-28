@@ -23,7 +23,10 @@ git clone https://gitlab.com/ElbitOS/elbitos-base
 Use archiso to create a bootable ISO
 
 ```bash
-sudo archiso -v elbitos-base
+sudo archiso -v ElbitOS-Base
 ```
 
 Work and out directories should be created and the out directory will contain the ISO file
+
+> ### Note
+> Depending on the distribution you might need to copy ElbitOS Repository package from this group
