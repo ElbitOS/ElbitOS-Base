@@ -17,7 +17,7 @@ sudo pacman -S archiso
 Clone the repository
 
 ```bash
-git clone https://gitlab.com/ElbitOS/elbitos-base
+git clone https://github.com/ElbitOS/ElbitOS-Base
 ```
 
 Use archiso to create a bootable ISO
