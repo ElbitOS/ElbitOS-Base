@@ -1,6 +1,6 @@
 # ElbitOS Base
 
-![logo](gitlab_assets/logo-min.png)
+![logo](assets/logo-min.png)
 
 ElbitOS Base is a basic live version of ElbitOS used for Development.
 
